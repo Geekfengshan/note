@@ -13,7 +13,7 @@
 
 ```python
 import os
-print(os.getcwd)
+print(os.getcwd())
 print("Hello world")
 ```
 
